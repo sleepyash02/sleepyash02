@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Frosty</h1>
+<h1 align="center">Hi 👋, I'm Vicky Sharma</h1>
 
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
-<h3 align="center">A passionate full stack developer from India.</h3>
+<h3 align="center">A passionate UI/UX Designer.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sleepyash02&label=Profile%20views&color=0e75b6&style=flat" alt="sleepyash02" /> </p>
 
-- 🔭 I’m currently working on **Django framework.**
+- 🔭 I’m currently working on **FrontEnd.**
 
-- 🌱 I’m currently learning **MERN stack.**
+- 🌱 I’m currently learning **Designing**
 
 - 🤝 I’m looking for help with **React JS and Three JS.**
 
-- 💬 Ask me about **php, mysql and sass.**
+- 💬 Ask me about **Wireframing, Prototyping and Design Principles**
 
 - 📫 How to reach me **sharmaniwas12@gmail.com**
 
